@@ -1,6 +1,6 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
+    "title": "CrescentCoding",
+    "name": "CrescentCoding",
     "version": "5.0.5",
     "description": "Agency is a one page HTML theme for Bootstrap.",
     "keywords": [
@@ -13,7 +13,7 @@
     ],
     "homepage": "https://crescentcoding.com/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
+        "url": "https://crescentcoding.com/",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
